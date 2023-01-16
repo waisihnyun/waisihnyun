@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wai Si Hnyun</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react**, **typescript**
 
 - 💬 Ask me about **laravel, javascript**
 
