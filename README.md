@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react**, **typescript**
 
-- 💬 Ask me about **laravel, javascript**
+- 💬 Ask me about **php, laravel, javascript**
 
 - 📫 How to reach me **waisihnyun07@gmail.com**
 
