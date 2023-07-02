@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wai Si Hnyun</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **react**, **typescript**, **next.js**, **node.js**, **express.js**
+- 🌱 I’m currently learning **Vue.js**, **TypeScript**, **GraphQL**
 
-- 💬 Ask me about **php, laravel, javascript**
+- 💬 Ask me about **PHP, Laravel, JavaScript**
 
 - 📫 How to reach me **waisihnyun07@gmail.com**
 
