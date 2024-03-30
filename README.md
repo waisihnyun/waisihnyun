@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wai Si Hnyun</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **Microservices**, **Event-driven Architecture**
+- 🌱 I’m currently learning **Microservices and Event-driven Architecture**
 
 - 💬 Ask me about **PHP, Java, JavaScript**
 
 - 📫 How to reach me **waisihnyun07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/wai.si.hnyun.626a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wai.si.hnyun.626a" height="30" width="40" /></a>
-</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piccolo27&show_icons=true&theme=tokyonight)
 
