@@ -22,7 +22,7 @@ const developer = {
     "Backend Systems"
   ],
   
-  workingAt: "Metateam Myanmar",
+  workingAt: "First to Fly",
   certifications: ["AWS Certified Solutions Architect - Associate"],
   
   motto: "Crafting elegant solutions to complex problems"
