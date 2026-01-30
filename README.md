@@ -13,12 +13,12 @@ const developer = {
   name: "Wai Si Hnyun",
   role: "Software Engineer & Problem Solver",
   location: "Yangon, Myanmar",
-  experience: "2+ years",
+  experience: "3 years",
   
   currentFocus: [
-    "AI-First Development",
-    "Vibe Coding",
-    "Cloud-Native Applications",
+    "AI",
+    "Agentic WOrkflow",
+    "FinOps in AWS",
     "Backend Systems"
   ],
   
