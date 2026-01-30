@@ -17,7 +17,7 @@ const developer = {
   
   currentFocus: [
     "AI",
-    "Agentic WOrkflow",
+    "Agentic Workflow",
     "FinOps in AWS",
     "Backend Systems"
   ],
