@@ -12,7 +12,6 @@
 const developer = {
   name: "Wai Si Hnyun",
   role: "Software Engineer & Problem Solver",
-  location: "Yangon, Myanmar",
   experience: "3 years",
   
   currentFocus: [
