@@ -16,10 +16,8 @@ const developer = {
   experience: "3 years",
   
   currentFocus: [
-    "AI",
-    "Agentic Workflow",
-    "AWS",
-    "Backend Systems"
+    "Agentic Engineering",
+    "System Designs"
   ],
   
   workingAt: "First to Fly",
